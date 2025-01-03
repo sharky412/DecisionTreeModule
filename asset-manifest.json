@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DecisionTreeModule/static/css/main.30f93383.css",
+    "main.js": "/DecisionTreeModule/static/js/main.c409a30b.js",
+    "static/js/488.a15baff4.chunk.js": "/DecisionTreeModule/static/js/488.a15baff4.chunk.js",
+    "index.html": "/DecisionTreeModule/index.html",
+    "main.30f93383.css.map": "/DecisionTreeModule/static/css/main.30f93383.css.map",
+    "main.c409a30b.js.map": "/DecisionTreeModule/static/js/main.c409a30b.js.map",
+    "488.a15baff4.chunk.js.map": "/DecisionTreeModule/static/js/488.a15baff4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30f93383.css",
+    "static/js/main.c409a30b.js"
+  ]
+}
