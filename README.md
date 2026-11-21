@@ -5,7 +5,7 @@ An interactive, story-driven module that teaches the basics of **decision trees*
 [![Live demo](https://img.shields.io/badge/demo-live-brightgreen?logo=github)](https://sharky412.github.io/DecisionTreeModule/)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
-![Create React App](https://img.shields.io/badge/Create_React_App-5-09D3AC?logo=createreactapp&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Live demo:** https://sharky412.github.io/DecisionTreeModule/
@@ -19,7 +19,7 @@ An interactive, story-driven module that teaches the basics of **decision trees*
 
 ## Tech stack
 
-- React 19 (Create React App / `react-scripts`)
+- React 19 (built with [Vite](https://vite.dev))
 - Plain CSS
 
 ## Getting started
@@ -31,13 +31,14 @@ npm install
 npm start
 ```
 
-Then open http://localhost:3000.
+Then open http://localhost:5173/DecisionTreeModule/.
 
-| Script          | Description                  |
-| --------------- | ---------------------------- |
-| `npm start`     | Start the development server |
-| `npm run build` | Create a production build    |
-| `npm test`      | Run tests                    |
+| Script            | Description                        |
+| ----------------- | ---------------------------------- |
+| `npm start`       | Start the Vite development server  |
+| `npm run build`   | Create a production build          |
+| `npm run preview` | Serve the production build locally |
+| `npm run deploy`  | Build and publish to GitHub Pages  |
 
 ## License
 
