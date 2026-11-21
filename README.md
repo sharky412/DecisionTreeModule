@@ -6,6 +6,7 @@ An interactive, story-driven module that teaches the basics of **decision trees*
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
 ![Create React App](https://img.shields.io/badge/Create_React_App-5-09D3AC?logo=createreactapp&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 **Live demo:** https://sharky412.github.io/DecisionTreeModule/
 
@@ -37,3 +38,7 @@ Then open http://localhost:3000.
 | `npm start`     | Start the development server |
 | `npm run build` | Create a production build    |
 | `npm test`      | Run tests                    |
+
+## License
+
+Released under the [MIT License](LICENSE).
